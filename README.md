@@ -11,7 +11,7 @@ MCA student at MNNIT Allahabad (2027), building fullstack and ML-integrated syst
 
 ### Featured Projects
 
-### [IRIS](#) — Image Recognition and Indexing Service
+### [IRIS](https://github.com/TeliarganjTesters/iris) — Image Recognition and Indexing Service
 
 A self-deployed, privacy-focused alternative to Google Photos — one that searches across text, image, audio, and video using a unified embedding space, without handing your media over to a third party. Hybrid search fuses CLIP vector similarity, YOLOv8 object matching, and OCR text overlap; an async pipeline (Celery + Redis) orchestrates 4 ML models per upload with two-tier duplicate detection.
 
@@ -20,7 +20,7 @@ Models used: `CLIP` `YOLOv8` `Whisper` `EfficientNet`
 
 ![IRIS screenshot](assets/iris.png)
 
-### [Lexica](#) — Vocabulary Learning App with quizes
+### [Lexica](https://github.com/mummykelaadle/lexica) — Vocabulary Learning App with quizes
 
 A MERN-stack book reading companion that turns books into scrollable word feed — enabling easy, in-flow word lookups so you never have to break your reading momentum. Powered by a custom word-difficulty scoring formula, it includes a quiz system that builds your vocabulary by targeting challenging words based on your performance.
 📈 Reduced PDF processing time by **96.97%** via parallel processing
