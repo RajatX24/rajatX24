@@ -1,11 +1,13 @@
 # Rajat Shukla 
-# SDE/AI Engineering | Competitive Programmer
+# SDE/AI Engineering | Associate Software Engineer at [Better](https://btr.group/)
 
 ### About Me
 
-MCA student at MNNIT Allahabad (2027), building fullstack and ML-integrated systems. Competitive programmer — Top 5% on LeetCode globally, Top 1% on individual contests. Currently looking for SDE1 / AI-engineering internships and roles.
+MCA student at MNNIT Allahabad (2027), building fullstack and ML-integrated systems. Competitive programmer — Top 5% on LeetCode globally, Top 1% on individual contests.
 
-🔭 **Currently:** Open to off-campus SDE1 / AI-engineering internships — happy to talk backend systems, ML integration, or competitive programming.
+💼 **Currently:** Associate Software Engineer at [Better](https://btr.group/) ([\@jalantechnologies](https://github.com/jalantechnologies)).
+
+🔭 **Working on:** [Operate](https://operatex.dev/), an AI-powered SRE platform that helps engineering teams investigate production issues, identify root causes, and prepare fixes for review.
 
 ---
 
